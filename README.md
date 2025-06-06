@@ -7,7 +7,7 @@ Welcome! This mini‑project lets you check your Python fundamentals without nee
 1. Set up a virtual environment (optional but recommended):
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
 ```
 
